@@ -7,4 +7,3 @@ I want to develop an android app for a food delivery. When users open the app th
 1. Add the dish or restaurant to their favorites
 2. Share the dish via different apps
 ### Note: Feel free to design it however you like, and use as much "covered in class" content as possible.
-
